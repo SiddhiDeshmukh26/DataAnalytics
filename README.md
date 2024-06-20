@@ -4,8 +4,6 @@ This project involves creating and deploying a series of interactive Tableau das
 ### Technology Stack:
 
 * Tableau: For creating and publishing interactive dashboards.
-* SQL: For querying and managing the underlying data sources.
-* ETL Tools: For data extraction, transformation, and loading processes.
 
 ### Expected Outcomes:
 
