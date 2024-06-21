@@ -47,7 +47,7 @@ Line graph tracking the number of movies and TV shows added to Netflix each year
 * Department-Wise Attrition: A pie chart illustrating the distribution of attrition across different departments (HR, R&D, Sales).
 * Employee Age Distribution: A bar chart showing the number of employees in various age groups, with the ability to adjust bin sizes.
 * Job Satisfaction Ratings: A heatmap that breaks down job satisfaction ratings by job role, providing insight into areas needing improvement.
-*Education Field Wise Attrition: A horizontal bar chart representing attrition rates across different education fields.
+* Education Field Wise Attrition: A horizontal bar chart representing attrition rates across different education fields.
 * Attrition Rate by Gender and Age Group: Donut charts displaying attrition rates for different age groups segmented by gender.
 ### Technology Stack:
 * Tableau: For designing and deploying interactive dashboards.
